@@ -2,21 +2,25 @@
 
 An AI-powered platform that analyzes student focus during e-learning sessions using facial recognition and quiz performance.
 
-## Features
+## 📈 Demo
 
-- **Face & Eye Tracking**: Monitors face direction and eye movements
-- **Attention Analysis**: Tracks user presence and engagement
+
+
+## ✨ Features
+
+- **Face & Eye Tracking**: Monitors face direction and eye blinking
+- **Person Detection**: Identifies if a person is present in the frame
 - **Quiz Integration**: Evaluates understanding through auto-generated quizzes
 - **Focus Reports**: Generates downloadable HTML reports with detailed statistics
 
-## How to Use
+## 🚀 How to Use
 
 1. Upload a learning session video or use live webcam
 2. Let the AI analyze your focus parameters
 3. Complete the auto-generated quiz
 4. Download your focus analysis report
 
-## Components
+## 🛠️ Components
 
 - `app.py`: Web interface for video upload and settings
 - `focus_detection.py`: Core focus analysis logic
@@ -24,7 +28,7 @@ An AI-powered platform that analyzes student focus during e-learning sessions us
 - `dashboard.py`: Focus statistics visualization
 - `html_integration.py`: Report generation
 
-## Technical Stack
+## 💻 Technical Stack
 
 - Face Detection: MediaPipe Face Mesh
 - Quiz Generation: OpenAI GPT-3.5
