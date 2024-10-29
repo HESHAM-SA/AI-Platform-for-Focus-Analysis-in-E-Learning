@@ -3,8 +3,9 @@
 An AI-powered platform that analyzes student focus during e-learning sessions using facial recognition and quiz performance.
 
 ## 📈 Demo
-https://github.com/HESHAM-SA/AI-Platform-for-Focus-Analysis-in-E-Learning/blob/master/Demo.mp4
+https://github.com/YourUsername/AI-Platform-for-Focus-Analysis-in-E-Learning/blob/main/Demo.mp4
 
+> 💡 **View demo video:** [Click here for full demonstration](./Demo.mp4)
 
 ## ✨ Features
 
