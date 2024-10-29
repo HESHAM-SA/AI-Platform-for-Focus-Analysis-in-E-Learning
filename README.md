@@ -2,12 +2,11 @@
 
 An AI-powered platform that analyzes student focus during e-learning sessions using facial recognition and quiz performance.
 
-[Watch Demo Video](https://drive.google.com/file/d/17Z6MNZwWdERwqpgkSiLjUS2iMTxJ5pJz/view?usp=sharing)
 
 ## 📈 Demo
-
-
 https://github.com/user-attachments/assets/9544daf4-7e36-43cc-81da-0841f2477a06
+[Watch Demo Video](https://drive.google.com/file/d/17Z6MNZwWdERwqpgkSiLjUS2iMTxJ5pJz/view?usp=sharing)
+
 
 
 ## ✨ Features
@@ -17,12 +16,14 @@ https://github.com/user-attachments/assets/9544daf4-7e36-43cc-81da-0841f2477a06
 - **Quiz Integration**: Evaluates understanding through auto-generated quizzes
 - **Focus Reports**: Generates downloadable HTML reports with detailed statistics
 
+
 ## 🚀 How to Use
 
-1. Upload a learning session video or use live webcam
+1. Upload a learning session video
 2. Let the AI analyze your focus parameters
 3. Complete the auto-generated quiz
 4. Download your focus analysis report
+
 
 ## 🛠️ Components
 
@@ -31,6 +32,7 @@ https://github.com/user-attachments/assets/9544daf4-7e36-43cc-81da-0841f2477a06
 - `quiz_generation.py`: AI-powered quiz creation
 - `dashboard.py`: Focus statistics visualization
 - `html_integration.py`: Report generation
+
 
 ## 💻 Technical Stack
 
