@@ -2,6 +2,8 @@
 
 An AI-powered platform that analyzes student focus during e-learning sessions using facial recognition and quiz performance.
 
+[Watch Demo Video](https://drive.google.com/file/d/17Z6MNZwWdERwqpgkSiLjUS2iMTxJ5pJz/view?usp=sharing)
+
 ## 📈 Demo
 
 
